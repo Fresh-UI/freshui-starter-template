@@ -1,0 +1,16 @@
+{
+  "name": "freshui-starter-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-sass": "^1.3.0",
+    "sass": "^1.32.8",
+    "snowpack": "^3.0.13"
+  },
+  "dependencies": {}
+}
